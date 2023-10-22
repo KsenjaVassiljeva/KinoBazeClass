@@ -223,6 +223,45 @@ ul.menu li a:hover {
 	border: solid 5px #dad7d5;
 }
 
+.serias_block{
+	margin-bottom: 5%;
+
+}
+.serias_block img{
+	border-radius: 5px;
+	border: solid 5px #dad7d5;
+	width: 22.5%;
+}
+
+.posts .posts_content{
+	font-size: 0.8em;
+}
+
+.info_serias_page{
+	margin-top: 2%;
+	margin-bottom: 4%
+}
+
+.info_serias_page .label{
+	font-size: 1.2em;	
+}
+.info_serias_page .value{
+	font-size: 1em;	
+	color: #49945a;
+	margin-right: 3%;
+}
+
+.description_serias{
+	margin-bottom: 15%;
+
+}
+.description_serias img{
+	float: left;
+	margin-right: 2%;
+	border-radius: 5px;
+	border: solid 5px #dad7d5;
+}
+
 .reviews{
 	margin-bottom: 4%;
 	font-size: 0.9em;
